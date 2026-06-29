@@ -10,7 +10,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=thanigaivasan-s&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/thanigaivasan-s)
 [![Years Badge](https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge&logo=java&logoColor=white)](https://github.com/thanigaivasan-s)
-[![Rating](https://img.shields.io/badge/Performance-Outstanding%202024--25-gold?style=for-the-badge&logo=star&logoColor=white)](https://github.com/thanigaivasan-s)
 [![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/thanigaivasan-s)
 
 </div>
